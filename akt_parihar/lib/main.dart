@@ -20,20 +20,14 @@ class MyApp extends StatelessWidget {
                 backgroundImage: AssetImage('images/me.jpg'),
                 radius: 60.0,
               ),
-              SizedBox(
-                height: 10,
-              ),
               Text(
                 'Superman',
                 style: TextStyle(
                     fontSize: 30.0,
-                    letterSpacing: 3.5,
+                    letterSpacing: 5.0,
                     fontFamily: 'Pacifico',
                     color: Colors.white,
                     fontWeight: FontWeight.bold),
-              ),
-              SizedBox(
-                height: 5,
               ),
               Text(
                 'FLUTTER DEVELOPER',
