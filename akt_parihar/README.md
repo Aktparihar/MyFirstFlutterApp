@@ -1,5 +1,7 @@
 # akt_parihar
 
+You can create your own Developer Card.
+
 A new Flutter application.
 
 ## Getting Started
