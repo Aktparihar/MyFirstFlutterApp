@@ -17,14 +17,14 @@ class MyApp extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               CircleAvatar(
-                backgroundImage: AssetImage('images/me.png'),
+                backgroundImage: AssetImage('images/me.jpg'),
                 radius: 60.0,
               ),
               SizedBox(
                 height: 10,
               ),
               Text(
-                'Ankit Parihar',
+                'Superman',
                 style: TextStyle(
                     fontSize: 30.0,
                     letterSpacing: 3.5,
@@ -59,7 +59,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.teal.shade900,
                   ),
                   title: Text(
-                    '+91 9413701245',
+                    '+91 123456789',
                     style: TextStyle(
                         color: Colors.teal.shade900,
                         fontFamily: 'Source Sans Pro',
@@ -76,7 +76,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.teal.shade900,
                   ),
                   title: Text(
-                    'ankitpariharmiku@gmail.com',
+                    'superman@gmail.com',
                     style: TextStyle(
                         color: Colors.teal.shade900,
                         fontFamily: 'Source Sans Pro',
